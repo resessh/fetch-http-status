@@ -1,0 +1,11 @@
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# Node
+node_modules
+dist
